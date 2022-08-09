@@ -1,0 +1,489 @@
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth
+$ code .
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth
+$ git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint:   git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint:   git branch -m <name>
+Initialized empty Git repository in C:/wamp64/www/basicauth/.git/
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (master)
+$ git add .
+warning: LF will be replaced by CRLF in .editorconfig.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .env.example.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .gitattributes.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .styleci.yml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Console/Kernel.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Exceptions/Handler.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Controllers/Controller.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Kernel.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Middleware/Authenticate.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Middleware/EncryptCookies.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Middleware/PreventRequestsDuringMaintenance.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Middleware/RedirectIfAuthenticated.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Middleware/TrimStrings.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Middleware/TrustHosts.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Middleware/TrustProxies.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Http/Middleware/VerifyCsrfToken.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Models/User.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Providers/AppServiceProvider.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Providers/AuthServiceProvider.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Providers/BroadcastServiceProvider.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Providers/EventServiceProvider.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in app/Providers/RouteServiceProvider.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in artisan.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in bootstrap/app.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in bootstrap/cache/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in composer.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in composer.lock.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/app.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/auth.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/broadcasting.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/cache.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/cors.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/database.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/filesystems.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/hashing.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/logging.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/mail.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/queue.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/sanctum.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/services.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/session.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in config/view.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in database/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in database/factories/UserFactory.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in database/migrations/2014_10_12_000000_create_users_table.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in database/migrations/2014_10_12_100000_create_password_resets_table.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in database/migrations/2019_08_19_000000_create_failed_jobs_table.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in database/seeders/DatabaseSeeder.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in phpunit.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/.htaccess.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/index.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/robots.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in resources/js/app.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in resources/js/bootstrap.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in resources/lang/en/auth.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in resources/lang/en/pagination.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in resources/lang/en/passwords.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in resources/lang/en/validation.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in resources/views/welcome.blade.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in routes/api.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in routes/channels.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in routes/console.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in routes/web.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in server.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/app/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/app/public/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/framework/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/framework/cache/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/framework/cache/data/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/framework/sessions/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/framework/testing/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/framework/views/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in storage/logs/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tests/CreatesApplication.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tests/Feature/ExampleTest.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tests/TestCase.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tests/Unit/ExampleTest.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in webpack.mix.js.
+The file will have its original line endings in your working directory
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (master)
+$ git commit -m "first commit"
+[master (root-commit) 7fd8b5c] first commit
+ 84 files changed, 11223 insertions(+)
+ create mode 100644 .editorconfig
+ create mode 100644 .env.example
+ create mode 100644 .gitattributes
+ create mode 100644 .gitignore
+ create mode 100644 .styleci.yml
+ create mode 100644 README.md
+ create mode 100644 app/Console/Kernel.php
+ create mode 100644 app/Exceptions/Handler.php
+ create mode 100644 app/Http/Controllers/Controller.php
+ create mode 100644 app/Http/Kernel.php
+ create mode 100644 app/Http/Middleware/Authenticate.php
+ create mode 100644 app/Http/Middleware/EncryptCookies.php
+ create mode 100644 app/Http/Middleware/PreventRequestsDuringMaintenance.php
+ create mode 100644 app/Http/Middleware/RedirectIfAuthenticated.php
+ create mode 100644 app/Http/Middleware/TrimStrings.php
+ create mode 100644 app/Http/Middleware/TrustHosts.php
+ create mode 100644 app/Http/Middleware/TrustProxies.php
+ create mode 100644 app/Http/Middleware/VerifyCsrfToken.php
+ create mode 100644 app/Models/User.php
+ create mode 100644 app/Providers/AppServiceProvider.php
+ create mode 100644 app/Providers/AuthServiceProvider.php
+ create mode 100644 app/Providers/BroadcastServiceProvider.php
+ create mode 100644 app/Providers/EventServiceProvider.php
+ create mode 100644 app/Providers/RouteServiceProvider.php
+ create mode 100644 artisan
+ create mode 100644 bootstrap/app.php
+ create mode 100644 bootstrap/cache/.gitignore
+ create mode 100644 composer.json
+ create mode 100644 composer.lock
+ create mode 100644 config/app.php
+ create mode 100644 config/auth.php
+ create mode 100644 config/broadcasting.php
+ create mode 100644 config/cache.php
+ create mode 100644 config/cors.php
+ create mode 100644 config/database.php
+ create mode 100644 config/filesystems.php
+ create mode 100644 config/hashing.php
+ create mode 100644 config/logging.php
+ create mode 100644 config/mail.php
+ create mode 100644 config/queue.php
+ create mode 100644 config/sanctum.php
+ create mode 100644 config/services.php
+ create mode 100644 config/session.php
+ create mode 100644 config/view.php
+ create mode 100644 database/.gitignore
+ create mode 100644 database/factories/UserFactory.php
+ create mode 100644 database/migrations/2014_10_12_000000_create_users_table.php
+ create mode 100644 database/migrations/2014_10_12_100000_create_password_resets_table.php
+ create mode 100644 database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+ create mode 100644 database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+ create mode 100644 database/seeders/DatabaseSeeder.php
+ create mode 100644 package.json
+ create mode 100644 phpunit.xml
+ create mode 100644 public/.htaccess
+ create mode 100644 public/favicon.ico
+ create mode 100644 public/index.php
+ create mode 100644 public/robots.txt
+ create mode 100644 resources/css/app.css
+ create mode 100644 resources/js/app.js
+ create mode 100644 resources/js/bootstrap.js
+ create mode 100644 resources/lang/en/auth.php
+ create mode 100644 resources/lang/en/pagination.php
+ create mode 100644 resources/lang/en/passwords.php
+ create mode 100644 resources/lang/en/validation.php
+ create mode 100644 resources/views/welcome.blade.php
+ create mode 100644 routes/api.php
+ create mode 100644 routes/channels.php
+ create mode 100644 routes/console.php
+ create mode 100644 routes/web.php
+ create mode 100644 server.php
+ create mode 100644 storage/app/.gitignore
+ create mode 100644 storage/app/public/.gitignore
+ create mode 100644 storage/framework/.gitignore
+ create mode 100644 storage/framework/cache/.gitignore
+ create mode 100644 storage/framework/cache/data/.gitignore
+ create mode 100644 storage/framework/sessions/.gitignore
+ create mode 100644 storage/framework/testing/.gitignore
+ create mode 100644 storage/framework/views/.gitignore
+ create mode 100644 storage/logs/.gitignore
+ create mode 100644 tests/CreatesApplication.php
+ create mode 100644 tests/Feature/ExampleTest.php
+ create mode 100644 tests/TestCase.php
+ create mode 100644 tests/Unit/ExampleTest.php
+ create mode 100644 webpack.mix.js
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (master)
+$ git branch -M main
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ git remote add origin https://github.com/imranmailbd/basicauth.git
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ git push -u origin main
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/imranmailbd/basicauth.git/'
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ git push -u origin main
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/imranmailbd/basicauth.git/'
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ git remote add origin https://github.com/imranmailbd/basicauth.git
+error: remote origin already exists.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ git push -u origin main
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/imranmailbd/basicauth.git/'
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ git push -u origin main
+Enumerating objects: 109, done.
+Counting objects: 100% (109/109), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (90/90), done.
+Writing objects: 100% (109/109), 72.41 KiB | 2.90 MiB/s, done.
+Total 109 (delta 7), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (7/7), done.
+To https://github.com/imranmailbd/basicauth.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan migrate
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+
+   Illuminate\Database\QueryException
+
+  SQLSTATE[42000]: Syntax error or access violation: 1071 Specified key was too
+long; max key length is 1000 bytes (SQL: alter table `users` add unique `users_e
+mail_unique`(`email`))
+
+  at C:\wamp64\www\basicauth\vendor\laravel\framework\src\Illuminate\Database\Co
+nnection.php:712
+    708▕         // If an exception occurs when attempting to run a query, we'll
+ format the error
+    709▕         // message to include the bindings with SQL, which will make th
+is exception a
+    710▕         // lot more helpful to the developer instead of just the databa
+se's errors.
+    711▕         catch (Exception $e) {
+  ➜ 712▕             throw new QueryException(
+    713▕                 $query, $this->prepareBindings($bindings), $e
+    714▕             );
+    715▕         }
+    716▕     }
+
+  1   C:\wamp64\www\basicauth\vendor\laravel\framework\src\Illuminate\Database\C
+onnection.php:501
+      PDOException::("SQLSTATE[42000]: Syntax error or access violation: 1071 Sp
+ecified key was too long; max key length is 1000 bytes")
+
+  2   C:\wamp64\www\basicauth\vendor\laravel\framework\src\Illuminate\Database\C
+onnection.php:501
+      PDOStatement::execute()
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan migrate
+
+   Error
+
+  Class 'App\Providers\Schema' not found
+
+  at C:\wamp64\www\basicauth\app\Providers\AppServiceProvider.php:26
+     22▕      * @return void
+     23▕      */
+     24▕     public function boot()
+     25▕     {
+  ➜  26▕         Schema::defaultStringLength(191);
+     27▕     }
+     28▕ }
+     29▕
+
+  1   C:\wamp64\www\basicauth\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php:36
+      App\Providers\AppServiceProvider::boot()
+
+  2   C:\wamp64\www\basicauth\vendor\laravel\framework\src\Illuminate\Container\Util.php:40
+      Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ ^C
+
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ ^C
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan migrate
+Migrating: 2014_10_12_000000_create_users_table
+
+   Illuminate\Database\QueryException
+
+  SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'users' already exists (SQL: create table `users` (`id` bigint unsigned not null auto_increment primary key, `name` varchar(191) null, `email` va
+rchar(191) not null, `username` varchar(191) not null, `email_verified_at` timestamp null, `password` varchar(191) not null, `remember_token` varchar(100) null, `created_at` timestamp null, `updated_at` timesta
+mp null) default character set utf8mb4 collate 'utf8mb4_unicode_ci')
+
+  at C:\wamp64\www\basicauth\vendor\laravel\framework\src\Illuminate\Database\Connection.php:712
+    708▕         // If an exception occurs when attempting to run a query, we'll format the error
+    709▕         // message to include the bindings with SQL, which will make this exception a
+    710▕         // lot more helpful to the developer instead of just the database's errors.
+    711▕         catch (Exception $e) {
+  ➜ 712▕             throw new QueryException(
+    713▕                 $query, $this->prepareBindings($bindings), $e
+    714▕             );
+    715▕         }
+    716▕     }
+
+  1   C:\wamp64\www\basicauth\vendor\laravel\framework\src\Illuminate\Database\Connection.php:501
+      PDOException::("SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'users' already exists")
+
+  2   C:\wamp64\www\basicauth\vendor\laravel\framework\src\Illuminate\Database\Connection.php:501
+      PDOStatement::execute()
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan migrate:reset
+Nothing to rollback.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan migrate:fresh
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (27.59ms)
+Migrating: 2014_10_12_100000_create_password_resets_table
+Migrated:  2014_10_12_100000_create_password_resets_table (42.92ms)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (14.22ms)
+Migrating: 2019_12_14_000001_create_personal_access_tokens_table
+Migrated:  2019_12_14_000001_create_personal_access_tokens_table (47.96ms)
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan make:controller RegistrationController
+Controller created successfully.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan make:request RegistrationRequest
+Request created successfully.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan make:controller LoginController
+Controller created successfully.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan make:request LoginRequest
+Request created successfully.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan make controller LogoutController
+
+
+  Command "make" is not defined.
+
+  Did you mean one of these?
+      make:cast
+      make:channel
+      make:command
+      make:component
+      make:controller
+      make:event
+      make:exception
+      make:factory
+      make:job
+      make:listener
+      make:mail
+      make:middleware
+      make:migration
+      make:model
+      make:notification
+      make:observer
+      make:policy
+      make:provider
+      make:request
+      make:resource
+      make:rule
+      make:seeder
+      make:test
+
+
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan make:controller LogoutController
+Controller created successfully.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$ php artisan make:controller HomeController
+Controller created successfully.
+
+imran@DESKTOP-N0JE7GF MINGW64 /c/wamp64/www/basicauth (main)
+$
